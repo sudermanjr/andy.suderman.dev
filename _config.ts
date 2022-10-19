@@ -5,8 +5,8 @@ import resolveUrls from "lume/plugins/resolve_urls.ts";
 import modifyUrls from "lume/plugins/modify_urls.ts";
 
 const site = lume({
-    location: new URL("https://resume.suderman.dev"),
-    prettyUrls: false, // Disable pretty urls
+  location: new URL("https://resume.suderman.dev"),
+  prettyUrls: false, // Disable pretty urls
 });
 
 // Ignores
@@ -16,10 +16,10 @@ site.ignore("README.md");
 site.use(basePath());
 site.use(resolveUrls());
 site.use(modifyUrls());
-site.use(slugifyUrls({alphanumeric: false}));
+site.use(slugifyUrls({ alphanumeric: false }));
 
 // Copy root static files
 site.copy("favicon.ico");
-site.copy("styles.css")
+site.copy("styles.css");
 
 export default site;
