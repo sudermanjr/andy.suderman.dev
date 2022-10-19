@@ -9,12 +9,14 @@ const site = lume({
     prettyUrls: false, // Disable pretty urls
 });
 
+// Ignores
+site.ignore("README.md");
+
 // Use the plugins
 site.use(basePath());
 site.use(resolveUrls());
 site.use(modifyUrls());
 site.use(slugifyUrls({alphanumeric: false}));
-
 
 // Copy root static files
 site.copy("favicon.ico");
