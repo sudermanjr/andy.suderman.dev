@@ -8,17 +8,17 @@ title: Andy Suderman
 
 I began my career as a self-taught engineer who was willing and able to learn
 new skills quickly. I am proficient in Bash, Python, Go, Docker and Kubernetes,
-as well as a myriad of other technologies. My passions include running distributed, 
-resilient, secure systems and automating the surrounding tasks.
+as well as a myriad of other technologies. My passions include running
+distributed, resilient, secure systems and automating the surrounding tasks.
 
 Since transitioning into leadership roles, I have learned to take the skills and
 rapid understanding of technology that I had as an individual contributor and
-translate them into meaningful strategic thinking. Where I previously sought simply to
-be the most skilled engineer possible, I now understand how the underlying technologies
-that we work with affect the decisions that the business is making. Couple this
-understanding with high-level thinking and the ability to make meaningful
-compromise, and you will find that I am a valuable leader for a highly technical
-engineering and/or operations organization.
+translate them into meaningful strategic thinking. Where I previously sought
+simply to be the most skilled engineer possible, I now understand how the
+underlying technologies that we work with affect the decisions that the business
+is making. Couple this understanding with high-level thinking and the ability to
+make meaningful compromise, and you will find that I am a valuable leader for a
+highly technical engineering and/or operations organization.
 
 ## Chief Technology Officer
 

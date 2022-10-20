@@ -16,4 +16,6 @@ OR, just serve it locally with `deno task serve`
 
 ## License
 
-Fonts are licensed under the [SIL Open Font License 1.1](https://opensource.org/licenses/OFL-1.1). No license provided for other content and code, all rights reserved.
+Fonts are licensed under the
+[SIL Open Font License 1.1](https://opensource.org/licenses/OFL-1.1). No license
+provided for other content and code, all rights reserved.

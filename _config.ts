@@ -21,6 +21,6 @@ site.use(slugifyUrls({ alphanumeric: false }));
 // Copy root static files
 site.copy("favicon.ico");
 site.copy("styles.css");
-site.copy("fonts")
+site.copy("fonts");
 
 export default site;
