@@ -4,9 +4,7 @@ title: Andy Suderman
 
 # Andy Suderman
 
-_andy@suderman.dev_
-
-## Skills
+<address class="subheading">andy@suderman.dev</address>
 
 I began my career as a self-started engineer who was willing and able to learn
 new skills quickly. I am proficient in Bash, Python, Go, Docker and Kubernetes,
@@ -23,19 +21,19 @@ understanding with high-level thinking and the ability to make meaningful
 compromise, and you will find that I am a valuable leader for a highly technical
 engineering and/or operations organization.
 
-## Relevant Experience
+## Chief Technology Officer
 
-### Fairwinds, Remote - Chief Technology Officer
-
-<p class="subheading">April 2022 - Present</p>
+<p class="subheading">Fairwinds, Remote</p>
+<p class="subheading">April 2022–Present</p>
 
 - Led the initiative to achieve SOC2 Type 2 compliance
 - Maintained ongoing SOC2 Type 2 compliance
 - Participated in strategic decisions led to positive business outcomes
 
-### Fairwinds, Remote - Director, R&D and Technology
+## Director, R&D and&nbsp;Technology
 
-<p class="subheading">April 2021 - April 2022</p>
+<p class="subheading">Fairwinds, Remote</p>
+<p class="subheading">April 2021–April 2022</p>
 
 - Managed a team of SREs responsible for maintaining Kubernetes infrastucture
   across many clients
@@ -44,16 +42,18 @@ engineering and/or operations organization.
 - Managed the engineering manager for the SRE Operations team responsible for
   routine maintenance of client Kubernentes infrastructure
 
-### Fairwinds, Remote - Principal Engineer
+## Principal Engineer
 
-<p class="subheading">October 2020 - April 2021</p>
+<p class="subheading">Fairwinds, Remote</p>
+<p class="subheading">October 2020–April 2021</p>
 
 - Participated in strategic technological discussions in the absence of a CTO
 - Continued evaluation of the impact of new technologies on business outcomes
 
-### Fairwinds, Remote​ - Lead Research and Development Engineer
+## Lead&nbsp;Research and Development&nbsp;Engineer
 
-<p class="subheading">October 2019 - October 2020</p>
+<p class="subheading">Fairwinds, Remote</p>
+<p class="subheading">October 2019–October 2020</p>
 
 - Explored new technologies relevant to the business and evaluated them for
   potential use or partnership
@@ -62,9 +62,10 @@ engineering and/or operations organization.
 - Continued to participate in a council to guide the technical direction of the
   company
 
-### ReactiveOps/Fairwinds, Remote​ - Lead Site Reliability Engineer
+## Lead Site Reliability Engineer
 
-<p class="subheading">March 2019 - October 2019</p>
+<p class="subheading">ReactiveOps/Fairwinds, Remote</p>
+<p class="subheading">March 2019–October 2019</p>
 
 All of the same responsibilities of the SRE role, plus:
 
@@ -72,36 +73,40 @@ All of the same responsibilities of the SRE role, plus:
 - Developed and maintained internal tooling and processes to assist the SRE team
 - Developed and maintained open source projects
 
-### ReactiveOps/Fairwinds, Remote​ - Site Reliability Engineer
+## Site Reliability Engineer
 
-<p class="subheading">May 2018 - March 2019</p>
+<p class="subheading">ReactiveOps/Fairwinds, Remote</p>
+<p class="subheading">May 2018–March 2019</p>
 
 - Maintained several customer infrastructures running in Kubernetes
 - Assisted clients in migrating to Kubernetes
 - Advised clients on best practices regarding CI/CD, security, and general
   operations in Kubernetes
 
-### ReadyTalk, Denver CO​ - Site Reliability Engineer
+## Site Reliability Engineer
 
-<p class="subheading">May 2017 - May 2018</p>
+<p class="subheading">ReadyTalk, Denver CO</p>
+<p class="subheading">May 2017–May 2018</p>
 
 - Developed and implemented Kubernetes for internal services
 - Assisted in the architecture of services running in Kubernetes
 - Developed metrics and alerting for Kubernetes clusters
 - Led the design and deployment of a global WebRTC audio gateway in Kubernetes
 
-### ReadyTalk, Denver CO​ - Systems Administrator
+## Systems Administrator
 
-<p class="subheading">June 2016 - May 2017</p>
+<p class="subheading">ReadyTalk, Denver CO</p>
+<p class="subheading">June 2016–May 2017</p>
 
 - Responsible for Linux systems running development, staging, and production
   infrastructure
 - Maintained and improved Puppet/Foreman infrastructure
 - Maintained and improved Nagios/PagerDuty infrastructure
 
-### Dairy Engineering Company, Arvada CO​ - Systems Administrator
+## Systems Administrator
 
-<p class="subheading">June 2016 - May 2017</p>
+<p class="subheading">Dairy Engineering Company, Arvada CO​</p>
+<p class="subheading">June 2016–May 2017</p>
 
 - Managed all elements of IT infrastructure from desktops to servers
 - Maintained proprietary database application front and back end
@@ -109,7 +114,6 @@ All of the same responsibilities of the SRE role, plus:
 - Implemented and migrated to an open source email solution
 - Designed and wrote new website using MVC architecture
 
-## Education
+## BS Engineering, Mechanical&nbsp;Specialty
 
-### BS Engineering, Mechanical&nbsp;Specialty
 <p class="subheading">Colorado School of Mines, Golden, CO</p>
