@@ -42,6 +42,8 @@ engineering and/or operations organization.
 - Managed the engineering manager for the SRE Operations team responsible for
   routine maintenance of client Kubernentes infrastructure
 
+<div class="avoid-break">
+
 ## Principal Engineer
 
 <p class="subheading">Fairwinds, Remote</p>
@@ -49,6 +51,10 @@ engineering and/or operations organization.
 
 - Participated in strategic technological discussions in the absence of a CTO
 - Continued evaluation of the impact of new technologies on business outcomes
+
+</div>
+
+<div class="avoid-break">
 
 ## Lead&nbsp;Research and Development&nbsp;Engineer
 
@@ -62,6 +68,10 @@ engineering and/or operations organization.
 - Continued to participate in a council to guide the technical direction of the
   company
 
+</div>
+
+<div class="avoid-break">
+
 ## Lead Site Reliability Engineer
 
 <p class="subheading">ReactiveOps/Fairwinds, Remote</p>
@@ -73,6 +83,9 @@ All of the same responsibilities of the SRE role, plus:
 - Developed and maintained internal tooling and processes to assist the SRE team
 - Developed and maintained open source projects
 
+</div>
+<div class="avoid-break">
+
 ## Site Reliability Engineer
 
 <p class="subheading">ReactiveOps/Fairwinds, Remote</p>
@@ -82,6 +95,9 @@ All of the same responsibilities of the SRE role, plus:
 - Assisted clients in migrating to Kubernetes
 - Advised clients on best practices regarding CI/CD, security, and general
   operations in Kubernetes
+
+</div>
+<div class="avoid-break">
 
 ## Site Reliability Engineer
 
@@ -93,6 +109,9 @@ All of the same responsibilities of the SRE role, plus:
 - Developed metrics and alerting for Kubernetes clusters
 - Led the design and deployment of a global WebRTC audio gateway in Kubernetes
 
+</div>
+<div class="avoid-break">
+
 ## Systems Administrator
 
 <p class="subheading">ReadyTalk, Denver CO</p>
@@ -102,6 +121,9 @@ All of the same responsibilities of the SRE role, plus:
   infrastructure
 - Maintained and improved Puppet/Foreman infrastructure
 - Maintained and improved Nagios/PagerDuty infrastructure
+
+</div>
+<div class="avoid-break">
 
 ## Systems Administrator
 
@@ -113,6 +135,9 @@ All of the same responsibilities of the SRE role, plus:
 - Performed software deployments and automated many IT tasks
 - Implemented and migrated to an open source email solution
 - Designed and wrote new website using MVC architecture
+
+</div>
+<div class="avoid-break">
 
 ## BS Engineering, Mechanical&nbsp;Specialty
 
