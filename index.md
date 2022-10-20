@@ -4,11 +4,11 @@ title: Andy Suderman
 
 # Andy Suderman
 
-andy@suderman.dev
+_andy@suderman.dev_
 
 ## Skills
 
-I began my career as a self-starting engineer who was willing and able to learn
+I began my career as a self-started engineer who was willing and able to learn
 new skills quickly. I am proficient in Bash, Python, Go, Docker and Kubernetes,
 as well as a myriad of other technologies. Some of my passions still lie in
 running distributed, resilient, secure systems and automating the surrounding
@@ -27,7 +27,7 @@ engineering and/or operations organization.
 
 ### Fairwinds, Remote - Chief Technology Officer
 
-_APRIL 2022 - PRESENT_
+<p class="subheading">April 2022 - Present</p>
 
 - Led the initiative to achieve SOC2 Type 2 compliance
 - Maintained ongoing SOC2 Type 2 compliance
@@ -35,7 +35,7 @@ _APRIL 2022 - PRESENT_
 
 ### Fairwinds, Remote - Director, R&D and Technology
 
-_APRIL 2021 - APRIL 2022_
+<p class="subheading">April 2021 - April 2022</p>
 
 - Managed a team of SREs responsible for maintaining Kubernetes infrastucture
   across many clients
@@ -46,14 +46,14 @@ _APRIL 2021 - APRIL 2022_
 
 ### Fairwinds, Remote - Principal Engineer
 
-_OCTOBER 2020 - APRIL 2021_
+<p class="subheading">October 2020 - April 2021</p>
 
 - Participated in strategic technological discussions in the absence of a CTO
 - Continued evaluation of the impact of new technologies on business outcomes
 
 ### Fairwinds, Remote​ - Lead Research and Development Engineer
 
-_OCTOBER 2019 - OCTOBER 2020_
+<p class="subheading">October 2019 - October 2020</p>
 
 - Explored new technologies relevant to the business and evaluated them for
   potential use or partnership
@@ -64,7 +64,7 @@ _OCTOBER 2019 - OCTOBER 2020_
 
 ### ReactiveOps/Fairwinds, Remote​ - Lead Site Reliability Engineer
 
-_MARCH 2019 - OCTOBER 2019_
+<p class="subheading">March 2019 - October 2019</p>
 
 All of the same responsibilities of the SRE role, plus:
 
@@ -74,7 +74,7 @@ All of the same responsibilities of the SRE role, plus:
 
 ### ReactiveOps/Fairwinds, Remote​ - Site Reliability Engineer
 
-_MAY 2018 - MARCH 2019_
+<p class="subheading">May 2018 - March 2019</p>
 
 - Maintained several customer infrastructures running in Kubernetes
 - Assisted clients in migrating to Kubernetes
@@ -83,7 +83,7 @@ _MAY 2018 - MARCH 2019_
 
 ### ReadyTalk, Denver CO​ - Site Reliability Engineer
 
-_MAY 2017 - MAY 2018_
+<p class="subheading">May 2017 - May 2018</p>
 
 - Developed and implemented Kubernetes for internal services
 - Assisted in the architecture of services running in Kubernetes
@@ -92,7 +92,7 @@ _MAY 2017 - MAY 2018_
 
 ### ReadyTalk, Denver CO​ - Systems Administrator
 
-_JUNE 2016 - MAY 2017_
+<p class="subheading">June 2016 - May 2017</p>
 
 - Responsible for Linux systems running development, staging, and production
   infrastructure
@@ -101,7 +101,7 @@ _JUNE 2016 - MAY 2017_
 
 ### Dairy Engineering Company, Arvada CO​ - Systems Administrator
 
-_JUNE 2016 - MAY 2017_
+<p class="subheading">June 2016 - May 2017</p>
 
 - Managed all elements of IT infrastructure from desktops to servers
 - Maintained proprietary database application front and back end
@@ -111,6 +111,5 @@ _JUNE 2016 - MAY 2017_
 
 ## Education
 
-### Colorado School of Mines, Golden, CO ​- _BS Engineering, Mechanical Specialty_
-
-_AUGUST 2007 - DECEMBER 2013_
+### BS Engineering, Mechanical&nbsp;Specialty
+<p class="subheading">Colorado School of Mines, Golden, CO</p>
