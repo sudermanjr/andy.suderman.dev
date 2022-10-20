@@ -13,3 +13,7 @@ fairly new static site generator (at the time of writing)
 Build the local site via `deno task build`
 
 OR, just serve it locally with `deno task serve`
+
+## License
+
+Fonts are licensed with the [SIL Open Font License 1.1](https://opensource.org/licenses/OFL-1.1). No license provided for other content and code, all rights reserved.

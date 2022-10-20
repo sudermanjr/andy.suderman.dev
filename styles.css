@@ -1,3 +1,14 @@
-* {
-    font-family: 'Courier New', Courier, monospace;
+@font-face {
+    font-family: "Source Serif";
+    src: url("/fonts/SourceSerif4Variable-Roman.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "Source Serif";
+    font-style: italic;
+    src: url("/fonts/SourceSerif4Variable-Italic.otf") format("opentype");
+}
+  
+body {
+    font-family: 'Source Serif', serif;
 }
