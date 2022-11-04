@@ -27,9 +27,13 @@ highly technical engineering and/or operations organization.
 
 - Led the initiative to achieve SOC2 Type 2 compliance
 - Maintained ongoing SOC2 Type 2 compliance
-- Participated in strategic decisions led to positive business outcomes
+- Managed Technical Leads team
+- Set strategic technical direction for company
+- Served as security officer and security architect
+- Maintained, developed, and managed open source software
+- Managed and nurtured a growing open source community
 
-## Director, R&D and&nbsp;Technology
+## Director, R&D and Technology
 
 <p class="subheading">Fairwinds, Remote</p>
 <p class="subheading">April 2021–April 2022</p>
@@ -55,7 +59,7 @@ highly technical engineering and/or operations organization.
 
 <div class="avoid-break">
 
-## Lead&nbsp;Research and Development&nbsp;Engineer
+## Lead Research and Development Engineer
 
 <p class="subheading">Fairwinds, Remote</p>
 <p class="subheading">October 2019–October 2020</p>
@@ -138,6 +142,6 @@ All of the same responsibilities of the SRE role, plus:
 </div>
 <div class="avoid-break">
 
-## BS Engineering, Mechanical&nbsp;Specialty
+## BS Engineering, Mechanical Specialty
 
 <p class="subheading">Colorado School of Mines, Golden, CO</p>
