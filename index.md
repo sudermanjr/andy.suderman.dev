@@ -25,13 +25,13 @@ highly technical engineering and/or operations organization.
 <p class="subheading">Fairwinds, Remote</p>
 <p class="subheading">April 2022–Present</p>
 
-- Led the initiative to achieve SOC2 Type 2 compliance
-- Maintained ongoing SOC2 Type 2 compliance
-- Managed Technical Leads team
 - Set strategic technical direction for company
 - Served as security officer and security architect
 - Maintained, developed, and managed open source software
 - Managed and nurtured a growing open source community
+- Led the initiative to achieve SOC2 Type 2 compliance
+- Maintained ongoing SOC2 Type 2 compliance
+- Managed technical leadership team
 
 ## Director, R&D and Technology
 
