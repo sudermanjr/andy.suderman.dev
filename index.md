@@ -28,10 +28,10 @@ highly technical engineering and/or operations organization.
 - Set strategic technical direction for company
 - Served as security officer and security architect
 - Maintained, developed, and managed open source software
-- Managed and nurtured a growing open source community
-- Led the initiative to achieve SOC2 Type 2 compliance
+- Managed and nurtured a growing open source community which became the source of many sales leads and established the company as Kubernetes experts
+- Led our SOC2 compliance program which enabled the company to land larger clients more quickly
 - Maintained ongoing SOC2 Type 2 compliance
-- Managed technical leadership team
+- Managed technical leadership team, growing and enabling new leaders within the company
 
 ## Director, R&D and Technology
 
