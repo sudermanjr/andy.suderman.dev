@@ -27,10 +27,9 @@ highly technical engineering and/or operations organization.
 
 - Set strategic technical direction for company
 - Served as security officer and security architect
-- Maintained, developed, and managed open source software
-- Managed and nurtured a growing open source community which became the source of many sales leads and established the company as Kubernetes experts
+- Managed and nurtured a growing open source community which became the source of
+  sales leads and established the company as Kubernetes experts
 - Led our SOC2 compliance program which enabled the company to land larger clients more quickly
-- Maintained ongoing SOC2 Type 2 compliance
 - Managed technical leadership team, growing and enabling new leaders within the company
 
 ## Director, R&D and Technology
@@ -38,10 +37,10 @@ highly technical engineering and/or operations organization.
 <p class="subheading">Fairwinds, Remote</p>
 <p class="subheading">April 2021–April 2022</p>
 
-- Managed a team of SREs responsible for maintaining Kubernetes infrastucture
-  across many clients
-- Participate in hiring an engineering management team to take over management
-  of SRE teams
+- Managed a team of SREs responsible for maintaining highly-available Kubernetes infrastucture
+  across many clients with 24x7 support
+- Particpated in hiring engineering management that produced a high-performing
+  SRE team
 - Managed the engineering manager for the SRE Operations team responsible for
   routine maintenance of client Kubernentes infrastructure
 
@@ -66,10 +65,10 @@ highly technical engineering and/or operations organization.
 
 - Explored new technologies relevant to the business and evaluated them for
   potential use or partnership
-- Developed and maintained open source projects
+- Developed and maintained open source projects to secure company recognition in the Kubernetes landscape
 - Continued to serve as a lead technical resource for the engineering department
-- Continued to participate in a council to guide the technical direction of the
-  company
+- Participated in a council to guide the technical direction of the company in a rapidly
+  changing Kubernets and CNCF landscape
 
 </div>
 
@@ -94,10 +93,11 @@ All of the same responsibilities of the SRE role, plus:
 <p class="subheading">ReactiveOps/Fairwinds, Remote</p>
 <p class="subheading">May 2018–March 2019</p>
 
-- Maintained several customer infrastructures running in Kubernetes
-- Assisted clients in migrating to Kubernetes
+- Maintained several customer infrastructures running in Kubernetes with 24x7
+  support and high availability
+- Assisted clients in migrating to Kubernetes in order to accelerate their business goals
 - Advised clients on best practices regarding CI/CD, security, and general
-  operations in Kubernetes
+  operations in Kubernetes in order to ensure smooth transition to Cloud Native technologies
 
 </div>
 <div class="avoid-break">
@@ -121,8 +121,9 @@ All of the same responsibilities of the SRE role, plus:
 <p class="subheading">June 2016–May 2017</p>
 
 - Responsible for Linux systems running development, staging, and production
-  infrastructure
-- Maintained and improved Puppet/Foreman infrastructure
+  infrastructure that supported all business operations
+- Maintained and improved Puppet/Foreman infrastructure to ensure consistent configuration
+  and reliability in business-critical infrastructure
 - Maintained and improved Nagios/PagerDuty infrastructure
 
 </div>
@@ -134,10 +135,14 @@ All of the same responsibilities of the SRE role, plus:
 <p class="subheading">June 2016–May 2017</p>
 
 - Managed all elements of IT infrastructure from desktops to servers
-- Maintained proprietary database application front and back end
+  ensuring smooth operations day-to-day
+- Maintained proprietary database application that backed all company
+  operations
 - Performed software deployments and automated many IT tasks
-- Implemented and migrated to an open source email solution
-- Designed and wrote new website using MVC architecture
+- Implemented and migrated to an open source email solution, enabling the company
+  to save money and have reliable communications
+- Designed and wrote new website using MVC architecture in order to enhance company
+  brand and showcase used equipment listings
 
 </div>
 <div class="avoid-break">
