@@ -1,13 +1,17 @@
 import lume from "lume/mod.ts";
+import nunjucks from "lume/plugins/nunjucks.ts";
 import slugifyUrls from "lume/plugins/slugify_urls.ts";
 import basePath from "lume/plugins/base_path.ts";
 import resolveUrls from "lume/plugins/resolve_urls.ts";
 import modifyUrls from "lume/plugins/modify_urls.ts";
 
 const site = lume({
-  location: new URL("https://resume.suderman.dev"),
-  prettyUrls: false, // Disable pretty urls
+  location: new URL("https://andy.suderman.dev"),
+  prettyUrls: false
 });
+
+// Use nunjucks
+site.use(nunjucks(/* Options */));
 
 // Ignores
 site.ignore("README.md");

@@ -1,5 +1,6 @@
 ---
 title: Andy Suderman
+layout: layouts/base.njk
 ---
 
 # Andy Suderman
@@ -29,7 +30,7 @@ highly technical engineering and/or operations organization.
 - Served as security officer and security architect
 - Managed and nurtured a growing open source community which became the source of
   sales leads and established the company as Kubernetes experts
-- Led our SOC2 compliance program which enabled the company to land larger clients more quickly
+- Achieved SOC2 Type 2 compliance in 8 months, and maintained continuously for 4+ years
 - Managed technical leadership team, growing and enabling new leaders within the company
 
 ## Director, R&D and Technology
@@ -147,15 +148,29 @@ All of the same responsibilities of the SRE role, plus:
 </div>
 <div class="avoid-break">
 
-## Community Contribution
+## Community Contributions
 
-### Co-Chair, Policy Working Group
-
-<p class="subheading">CNCF</p>
+### Co-Chair Policy Working Group, Cloud Native Computing Foundation (CNCF)
 <p class="subheading">June 2022–Present</p>
 
-- Managed all elements of IT infrastructure from desktops to servers
-  ensuring smooth operations day-to-day
+### CNCF Ambassador
+<p class="subheading">April 2023–Present</p>
+
+### Open Source
+
+- <a href="https://openreports.io">Open Reports</a>, Maintainer, March 2025–Present
+- <a href="https://github.com/fairwindsops/goldilocks">Goldilocks</a>, Author & Maintainer, 2019–Present
+- <a href="https://github.com/fairwindsops/pluto">Pluto</a>, Author & Maintainer, 2020–Present
+
+### Conference Speaker
+- <i>Policy-Based Kubernetes Governance, Risk, and Compliance</i>—Kubecon North America 2023
+- <i>Kubernetes Policy Time Machine: Where To Next?</i>—Kubecon EU 2024
+- <i>AI for Policy and Policy for AI!</i>—Kubecon North America 2024
+- <i>K8s Is a Big Hammer - Is Everything a Nail?</i> (Lightning talk)—KCD Washington DC 2024
+- <i>K8s Is a Big Hammer - Is Everything a Nail?</i> (Full talk)—CloudX 2024
+- <i>AI for Policy and Policy for AI!</i>—Kubecon EU 2025
+- <i>Case Study: Re-Thinking Our Infrastructure Tooling</i>—SRE Day Richmond 2025
+- <i>Case Study: Re-Thinking Our Infrastructure Tooling</i>—SRE Day San Francisco 2025
 
 </div>
 <div class="avoid-break">
