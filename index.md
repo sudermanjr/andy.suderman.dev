@@ -147,6 +147,19 @@ All of the same responsibilities of the SRE role, plus:
 </div>
 <div class="avoid-break">
 
+## Community Contribution
+
+### Co-Chair, Policy Working Group
+
+<p class="subheading">CNCF</p>
+<p class="subheading">June 2022–Present</p>
+
+- Managed all elements of IT infrastructure from desktops to servers
+  ensuring smooth operations day-to-day
+
+</div>
+<div class="avoid-break">
+
 ## BS Engineering, Mechanical Specialty
 
 <p class="subheading">Colorado School of Mines, Golden, CO</p>
