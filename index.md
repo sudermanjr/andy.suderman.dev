@@ -168,7 +168,7 @@ All of the same responsibilities of the SRE role, plus:
 - <i>AI for Policy and Policy for AI!</i>—Kubecon North America 2024
 - <i>K8s Is a Big Hammer - Is Everything a Nail?</i> (Lightning talk)—KCD Washington DC 2024
 - <i>K8s Is a Big Hammer - Is Everything a Nail?</i> (Full talk)—CloudX 2024
-- <i>AI for Policy and Policy for AI!</i>—Kubecon EU 2025
+- <i>A Practical Guide To Kubernetes Policy as Code</i>—Kubecon EU 2025
 - <i>Case Study: Re-Thinking Our Infrastructure Tooling</i>—SRE Day Richmond 2025
 - <i>Case Study: Re-Thinking Our Infrastructure Tooling</i>—SRE Day San Francisco 2025
 
