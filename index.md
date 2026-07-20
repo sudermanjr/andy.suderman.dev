@@ -37,12 +37,12 @@ highly technical engineering and/or operations organization.
 <p class="subheading">Fairwinds, Remote</p>
 <p class="subheading">April 2021–April 2022</p>
 
-- Managed a team of SREs responsible for maintaining highly-available Kubernetes infrastucture
+- Managed a team of SREs responsible for maintaining highly-available Kubernetes infrastructure
   across many clients with 24x7 support
-- Particpated in hiring engineering management that produced a high-performing
+- Participated in hiring engineering management that produced a high-performing
   SRE team
 - Managed the engineering manager for the SRE Operations team responsible for
-  routine maintenance of client Kubernentes infrastructure
+  routine maintenance of client Kubernetes infrastructure
 
 <div class="avoid-break">
 
@@ -68,7 +68,7 @@ highly technical engineering and/or operations organization.
 - Developed and maintained open source projects to secure company recognition in the Kubernetes landscape
 - Continued to serve as a lead technical resource for the engineering department
 - Participated in a council to guide the technical direction of the company in a rapidly
-  changing Kubernets and CNCF landscape
+  changing Kubernetes and CNCF landscape
 
 </div>
 
@@ -150,3 +150,9 @@ All of the same responsibilities of the SRE role, plus:
 ## BS Engineering, Mechanical Specialty
 
 <p class="subheading">Colorado School of Mines, Golden, CO</p>
+
+## Skills
+
+- Technologies: Kubernetes, Docker, Bash, Python, Go
+- Platforms: AWS, GCP, Azure
+- Domains: Leadership, SRE, Platform Engineering, FinOps, Security, Policy-as-Code
