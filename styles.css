@@ -25,20 +25,24 @@
     font-weight: bold;
     src: url("/fonts/SourceSerif/SourceSerif4-BoldIt.ttf.woff2") format("woff2");
 }
-/* @link https://utopia.fyi/type/calculator?c=320,19.2,1.25,1140,19.2,1.25,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l */
+/* @link https://utopia.fyi/type/calculator?c=320,14.4,1.2,1140,14.4,1.2,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l */
 
 :root {
     --color-dark: #393839;
     --color-light: #F1F0EA;
 
-    --step--2: clamp(0.83rem, calc(0.83rem + 0.00vw), 0.83rem);
-    --step--1: clamp(1.00rem, calc(1.00rem + 0.00vw), 1.00rem);
-    --step-0: clamp(1.20rem, calc(1.20rem + 0.00vw), 1.20rem);
-    --step-1: clamp(1.44rem, calc(1.44rem + 0.00vw), 1.44rem);
-    --step-2: clamp(1.73rem, calc(1.73rem + 0.00vw), 1.73rem);
-    --step-3: clamp(2.07rem, calc(2.07rem + 0.00vw), 2.07rem);
-    --step-4: clamp(2.49rem, calc(2.49rem + 0.00vw), 2.49rem);
-    --step-5: clamp(2.99rem, calc(2.99rem + 0.00vw), 2.99rem);
+    --step--2: clamp(0.63rem, calc(0.63rem + 0.00vw), 0.63rem);
+    --step--1: clamp(0.75rem, calc(0.75rem + 0.00vw), 0.75rem);
+    --step-0: clamp(0.90rem, calc(0.90rem + 0.00vw), 0.90rem);
+    --step-1: clamp(1.08rem, calc(1.08rem + 0.00vw), 1.08rem);
+    --step-2: clamp(1.30rem, calc(1.30rem + 0.00vw), 1.30rem);
+    --step-3: clamp(1.56rem, calc(1.56rem + 0.00vw), 1.56rem);
+    --step-4: clamp(1.87rem, calc(1.87rem + 0.00vw), 1.87rem);
+    --step-5: clamp(2.24rem, calc(2.24rem + 0.00vw), 2.24rem);
+}
+
+@page {
+    margin: 0.25in;
 }
 
 /* Screen only! */
@@ -46,24 +50,10 @@
     /* elements */
     body {
         background-color: var(--color-light);
-        font-size: var(--step-0);
         margin-block: 2em;
         margin-inline: auto;
         max-inline-size: 75ch;
         padding-inline: 2em;
-    }
-
-    h1 {
-        font-size: var(--step-5);
-    }
-
-    h2 {
-        font-size: var(--step-4);
-    }
-
-    h1,
-    h2 {
-        margin-block-start: 1em;
     }
 }
 
@@ -71,15 +61,29 @@
 body {
     color: var(--color-dark);
     font-family: 'Source Serif', serif;
-    line-height: 1.5;
+    font-size: var(--step-0);
+    line-height: 1.325;
+}
+
+h1 {
+    font-size: var(--step-3);
+}
+
+h2 {
+    font-size: var(--step-1);
 }
 
 h1,
 h2 {
     line-height: 1.1;
+    margin-block-start: 0.65em;
     margin-block-end: 0;
     break-after: avoid;
     break-inside: avoid;
+}
+
+ul {
+    margin-block: 0.1em;
 }
 
 li {
@@ -94,7 +98,7 @@ li {
 
 .subheading {
     font-style: italic;
-    margin-block: 0.5em 0;
+    margin-block: 0.2em 0;
 }
 
 .subheading + .subheading {
