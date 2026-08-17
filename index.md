@@ -10,7 +10,7 @@ title: Andy Suderman
 
 CTO and cloud-native leader with a decade of building, operating, and securing
 Kubernetes platforms across AWS, GCP, and Azure. I grew from hands-on SRE and
-systems engineering into technical leadership; running multi-client managed
+systems engineering into technical leadership. Running multi-client managed
 Kubernetes operations, setting company-wide technical strategy, and owning
 security architecture and SOC 2 compliance.
 
@@ -36,7 +36,7 @@ and making the tradeoffs that keep platforms reliable, secure, and cost-effectiv
 - Served as security officer and security architect
 - Grew the open source community into a source of sales leads and established the
   company as Kubernetes experts
-- Led SOC 2 compliance program, enabling faster close of larger clients. Maintained through 3 years of audits.
+- Led SOC 2 compliance program, shortening enterprise sales cycles. Maintained through 3 years of audits.
 - Managed the technical leadership team, growing and enabling new leaders
 
 <div class="avoid-break">
