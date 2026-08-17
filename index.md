@@ -29,7 +29,7 @@ and making the tradeoffs that keep platforms reliable, secure, and cost-effectiv
 - Oversaw ~12 mid-to-large scale engineering projects and an organization of up to
   30 engineers; delivered quarterly technical updates to the board and executives
 - Maintained company open source projects including
-  [Polaris](https://github.com/FairwindsOps/polaris) (3.3k+  stars),
+  [Polaris](https://github.com/FairwindsOps/polaris) (3.3k+ stars),
   [Goldilocks](https://github.com/FairwindsOps/goldilocks) (3.3k+ stars),
   [Pluto](https://github.com/FairwindsOps/pluto) (2.5k+ stars), and
   [RBAC Manager](https://github.com/FairwindsOps/rbac-manager) (1.6k+ stars)
@@ -165,7 +165,7 @@ All of the same responsibilities of the SRE role, plus:
 
 ## Systems Administrator
 
-<p class="subheading">Dairy Engineering Company, Arvada CO​</p>
+<p class="subheading">Dairy Engineering Company, Arvada CO</p>
 <p class="subheading">June 2016–May 2017</p>
 
 - Managed all elements of IT infrastructure from desktops to servers
