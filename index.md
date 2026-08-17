@@ -10,7 +10,7 @@ title: Andy Suderman
 
 CTO and cloud-native leader with a decade of building, operating, and securing
 Kubernetes platforms across AWS, GCP, and Azure. I grew from hands-on SRE and
-systems engineering into technical leadership—running multi-client managed
+systems engineering into technical leadership; running multi-client managed
 Kubernetes operations, setting company-wide technical strategy, and owning
 security architecture and SOC 2 compliance.
 
@@ -26,12 +26,18 @@ and making the tradeoffs that keep platforms reliable, secure, and cost-effectiv
 <p class="subheading">Fairwinds, Remote</p>
 <p class="subheading">April 2022–Present</p>
 
-- Set strategic technical direction for company
+- Oversaw ~12 mid-to-large scale engineering projects and an organization of up to
+  30 engineers; delivered quarterly technical updates to the board and executives
+- Maintained company open source projects including
+  [Polaris](https://github.com/FairwindsOps/polaris) (3.3k+  stars),
+  [Goldilocks](https://github.com/FairwindsOps/goldilocks) (3.3k+ stars),
+  [Pluto](https://github.com/FairwindsOps/pluto) (2.5k+ stars), and
+  [RBAC Manager](https://github.com/FairwindsOps/rbac-manager) (1.6k+ stars)
 - Served as security officer and security architect
-- Managed and nurtured a growing open source community which became the source of
-  sales leads and established the company as Kubernetes experts
-- Led our SOC2 compliance program which enabled the company to land larger clients more quickly
-- Managed technical leadership team, growing and enabling new leaders within the company
+- Grew the open source community into a source of sales leads and established the
+  company as Kubernetes experts
+- Led SOC 2 compliance program, enabling faster close of larger clients. Maintained through 3 years of audits.
+- Managed the technical leadership team, growing and enabling new leaders
 
 <div class="avoid-break">
 
@@ -177,30 +183,34 @@ All of the same responsibilities of the SRE role, plus:
 
 ## Open Source and Community
 
-- Creator and primary developer of [Goldilocks](https://github.com/FairwindsOps/goldilocks), an open source tool for recommending K8s requests and limits.
-- Co-author and maintainer of [Pluto](https://github.com/FairwindsOps/pluto), a CLI for discovering deprecated and removed Kubernetes API versions.
-- Maintainer of additional Fairwinds open source projects including [Polaris](https://github.com/FairwindsOps/polaris) (policy and configuration validation) and [RBAC Manager](https://github.com/FairwindsOps/rbac-manager) (declarative RBAC for Kubernetes)
-- CNCF Ambassador and co-chair of the CNCF Policy Working Group
+- Creator and primary developer of [Goldilocks](https://github.com/FairwindsOps/goldilocks)
+  (3.3k+ GitHub stars), an open source tool for recommending Kubernetes requests and limits
+- Co-author and maintainer of [Pluto](https://github.com/FairwindsOps/pluto) (2.6k+ stars),
+  a CLI for discovering deprecated and removed Kubernetes API versions
+- Maintainer of additional Fairwinds open source projects including
+  [Polaris](https://github.com/FairwindsOps/polaris) (3.4k+ stars) and
+  [RBAC Manager](https://github.com/FairwindsOps/rbac-manager) (1.7k+ stars)
+- CNCF Ambassador since 2024 and co-chair of the CNCF Policy Working Group
 
 </div>
 
 ## Public Speaking
 
-- [Running LLM Inference on Kubernetes: A Reliable Path From Cluster To First Prompt](https://www.youtube.com/watch?v=hHVx8CqJ64U) — AWS Community Day Midwest 2026
-- [Patch Me If You Can: Tackling Outdated Addons Before They Become a Risk](https://www.youtube.com/watch?v=2SoLCWl800w) — KubeCon + CloudNativeCon North America 2025
-- [Addons Need Love Too: Maintaining Addons for Better Cluster Security](https://www.youtube.com/watch?v=PIsU6oL-5EQ) — KubeCon + CloudNativeCon Japan 2025
-- [A Practical Guide To Kubernetes Policy as Code](https://www.youtube.com/watch?v=w1wh9dc6m34) — KubeCon + CloudNativeCon Europe 2025
-- [Case Study: Re-Thinking Our Infrastructure Tooling](https://www.youtube.com/watch?v=OV2XA3meBzg) — SREday San Francisco 2025
-- [AI for Policy and Policy for AI!](https://www.youtube.com/watch?v=8NevGwP8NrY) — KubeCon + CloudNativeCon North America 2024
-- [K8s Is a Big Hammer - Is Everything a Nail?](https://apiworld2024.sched.com/event/1hoKa/keynote-cloudx-fairwinds-k8s-is-a-big-hammer-is-everything-a-nail) — CloudX 2024
-- [The State of Ingress: Why Do We Need Gateway API?](https://www.youtube.com/watch?v=jCZ9mJdY4bs) — CNCF Cloud Native Live, 2024
-- [Kubernetes Policy Time Machine: Where to Next?](https://www.youtube.com/watch?v=apYGi-R28MU) — KubeCon + CloudNativeCon Europe 2024
-- [Policy-Based Kubernetes Governance, Risk, and Compliance](https://www.youtube.com/watch?v=irFvAZ0IjSg) — KubeCon + CloudNativeCon North America 2023
-- [Kubernetes Automatic Rightsizing](https://www.youtube.com/watch?v=Ui349UOGwU8) — CNCF Cloud Native Live, 2023
-- [Cloud Cost Monitoring: Right-Size Kubernetes Applications for Cost Optimization](https://www.youtube.com/watch?v=-eKOSgSwVf0) — CNCF Cloud Native Live, 2023
-- [Implementing Kubernetes Guardrails and Remediation with Polaris](https://www.youtube.com/watch?v=HJklXJVp1Iw) — CNCF Cloud Native Live, 2022
-- [Optimizing and Securing Kubernetes Workloads with Polaris and Goldilocks](https://www.youtube.com/watch?v=tSRx7-i9cHk) — CNCF Cloud Native Live, 2021
-- [Grassroots Kube](https://youtu.be/dC5T85FXWDY?si=Z9BYnOMImfvzs9_Q&t=1555) — DevOps Days Rockies 2018 (Ignite)
+- [Running LLM Inference on Kubernetes: A Reliable Path From Cluster To First Prompt](https://www.youtube.com/watch?v=hHVx8CqJ64U) - AWS Community Day Midwest 2026
+- [Patch Me If You Can: Tackling Outdated Addons Before They Become a Risk](https://www.youtube.com/watch?v=2SoLCWl800w) - KubeCon + CloudNativeCon North America 2025
+- [Addons Need Love Too: Maintaining Addons for Better Cluster Security](https://www.youtube.com/watch?v=PIsU6oL-5EQ) - KubeCon + CloudNativeCon Japan 2025
+- [A Practical Guide To Kubernetes Policy as Code](https://www.youtube.com/watch?v=w1wh9dc6m34) - KubeCon + CloudNativeCon Europe 2025
+- [Case Study: Re-Thinking Our Infrastructure Tooling](https://www.youtube.com/watch?v=OV2XA3meBzg) - SREday San Francisco 2025
+- [AI for Policy and Policy for AI!](https://www.youtube.com/watch?v=8NevGwP8NrY) - KubeCon + CloudNativeCon North America 2024
+- [K8s Is a Big Hammer - Is Everything a Nail?](https://apiworld2024.sched.com/event/1hoKa/keynote-cloudx-fairwinds-k8s-is-a-big-hammer-is-everything-a-nail) - CloudX 2024
+- [The State of Ingress: Why Do We Need Gateway API?](https://www.youtube.com/watch?v=jCZ9mJdY4bs) - CNCF Cloud Native Live, 2024
+- [Kubernetes Policy Time Machine: Where to Next?](https://www.youtube.com/watch?v=apYGi-R28MU) - KubeCon + CloudNativeCon Europe 2024
+- [Policy-Based Kubernetes Governance, Risk, and Compliance](https://www.youtube.com/watch?v=irFvAZ0IjSg) - KubeCon + CloudNativeCon North America 2023
+- [Kubernetes Automatic Rightsizing](https://www.youtube.com/watch?v=Ui349UOGwU8) - CNCF Cloud Native Live, 2023
+- [Cloud Cost Monitoring: Right-Size Kubernetes Applications for Cost Optimization](https://www.youtube.com/watch?v=-eKOSgSwVf0) - CNCF Cloud Native Live, 2023
+- [Implementing Kubernetes Guardrails and Remediation with Polaris](https://www.youtube.com/watch?v=HJklXJVp1Iw) - CNCF Cloud Native Live, 2022
+- [Optimizing and Securing Kubernetes Workloads with Polaris and Goldilocks](https://www.youtube.com/watch?v=tSRx7-i9cHk) - CNCF Cloud Native Live, 2021
+- [Grassroots Kube](https://youtu.be/dC5T85FXWDY?si=Z9BYnOMImfvzs9_Q&t=1555) - DevOps Days Rockies 2018 (Ignite)
 
 <div class="avoid-break">
 
